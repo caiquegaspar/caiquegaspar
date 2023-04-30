@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/caiquegaspar)](https://instagram.com/caiquegaspar)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:caiqsgaspar@hotmail.com)](mailto:caiqsgaspar@hotmail.com)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=caiquegaspar.CaiqueGaspar)
+### Glad to see you here! &nbsp; ![Custom badge](https://img.shields.io/endpoint?color=blue&label=visitors&url=https%3A%2F%2Fhits.dwyl.com%2Fcaiquegaspar%2Fcaiquegaspar.json)
 
 ### About me
 
